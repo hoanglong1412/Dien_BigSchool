@@ -1,3 +1,6 @@
 [submodule "BigSchool"]
 	path = BigSchool
 	url = https://github.com/hoanglong1412/Dien_BigSchool.git
+[submodule "Dien_BigSchool"]
+	path = Dien_BigSchool
+	url = https://github.com/hoanglong1412/Dien_BigSchool.git
